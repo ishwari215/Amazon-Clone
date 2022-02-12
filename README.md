@@ -1,4 +1,4 @@
-__Technologies used__: ReactJS, MongoDB, Express, NodeJs, __Firebase__ for Authentication, Database, Functions and Hosting.
+__Technologies used__: ReactJS, MongoDB, Express, NodeJs. __Firebase__ for Authentication, Database, Functions and Hosting.
 
 ## Getting Started with Create React App
 
